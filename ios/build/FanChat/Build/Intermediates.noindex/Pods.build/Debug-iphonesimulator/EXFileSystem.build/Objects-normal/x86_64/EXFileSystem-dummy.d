@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/EXFileSystem/EXFileSystem-dummy.m \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/EXFileSystem/EXFileSystem-prefix.pch
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/EXFileSystem/EXFileSystem-dummy.m \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/EXFileSystem/EXFileSystem-prefix.pch

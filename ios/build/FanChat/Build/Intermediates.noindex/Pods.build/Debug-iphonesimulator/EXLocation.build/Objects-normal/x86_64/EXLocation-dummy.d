@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/EXLocation/EXLocation-dummy.m \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/EXLocation/EXLocation-prefix.pch
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/EXLocation/EXLocation-dummy.m \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/EXLocation/EXLocation-prefix.pch

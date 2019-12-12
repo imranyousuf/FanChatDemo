@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/EXAppLoaderProvider/EXAppLoaderProvider-dummy.m \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/EXAppLoaderProvider/EXAppLoaderProvider-prefix.pch
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/EXAppLoaderProvider/EXAppLoaderProvider-dummy.m \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/EXAppLoaderProvider/EXAppLoaderProvider-prefix.pch

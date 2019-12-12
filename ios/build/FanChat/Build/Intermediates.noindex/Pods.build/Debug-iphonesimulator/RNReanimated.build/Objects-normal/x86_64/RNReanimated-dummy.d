@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-dummy.m \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-prefix.pch
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-dummy.m \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/RNReanimated/RNReanimated-prefix.pch

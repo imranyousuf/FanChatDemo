@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/lang/ColdClass.cpp \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/lang/ColdClass.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/CppAttributes.h
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/lang/ColdClass.cpp \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/CppAttributes.h

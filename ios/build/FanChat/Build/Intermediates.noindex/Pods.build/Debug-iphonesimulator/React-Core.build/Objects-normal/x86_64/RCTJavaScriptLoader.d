@@ -1,33 +1,33 @@
 dependencies: \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBundleType.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/Portability.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/portability/Config.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/CPortability.h \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Private/React-Core/React/RCTMultipartStreamReader.h \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBundleType.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/Portability.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/CPortability.h \
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Private/React-Core/React/RCTMultipartStreamReader.h \
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/react-native/React/Base/RCTUtils.h

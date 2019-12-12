@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/expo-linear-gradient/ios/EXLinearGradient/EXLinearGradientLayer.m \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/EXLinearGradient/EXLinearGradient-prefix.pch \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/expo-linear-gradient/ios/EXLinearGradient/EXLinearGradientLayer.h
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/expo-linear-gradient/ios/EXLinearGradient/EXLinearGradientLayer.m \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/EXLinearGradient/EXLinearGradient-prefix.pch \
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/expo-linear-gradient/ios/EXLinearGradient/EXLinearGradientLayer.h

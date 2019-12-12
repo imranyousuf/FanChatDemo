@@ -1,31 +1,31 @@
 dependencies: \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/react-native/Libraries/Network/RCTNetworking.mm \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/React-RCTNetwork/React-RCTNetwork-prefix.pch \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTNetworkTask.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestDelegate.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestHandler.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTNetworking.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTHTTPRequestHandler.h
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/react-native/Libraries/Network/RCTNetworking.mm \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/React-RCTNetwork/React-RCTNetwork-prefix.pch \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTNetworkTask.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestDelegate.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestHandler.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTNetworking.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTHTTPRequestHandler.h

@@ -1,29 +1,29 @@
 dependencies: \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
-  /Users/imranyousuf/Desktop/FanChat/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/Optional.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/Portability.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/portability/Config.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/CPortability.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/Traits.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/Utility.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/lang/Exception.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Folly/folly/CppAttributes.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
-  /Users/imranyousuf/Desktop/FanChat/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/mgigliotti/dev/FanChatDemo/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/Optional.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/Portability.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/CPortability.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/Traits.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/Utility.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/mgigliotti/dev/FanChatDemo/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

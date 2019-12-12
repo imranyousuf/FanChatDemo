@@ -137,10 +137,8 @@ class Item extends React.Component {
 const Question = (props) => {
   return (
       <View style={ styles.question }>
-        <Text style= {styles.qLineOne}>First Voter Will</Text>
-        <Text style= {styles.qLineTwo}>WIN</Text>
-        <Text style= {styles.qLineThree}>{props.winPoints.toLocaleString()} POINTS</Text>
-        <Text style= {styles.qLineFour}>PARTICIPATION EARNS {props.participationPoints.toLocaleString()} POINTS</Text>
+      <Image style={styles.logoStyle} source={require('../../assets/images/promo.png')} />
+        
         <Text style= {styles.questionText}>{ props.text }</Text>
       </View>
   );
@@ -179,26 +177,32 @@ const styles = StyleSheet.create({
   },
   questionText: {
     fontSize: 30,
+    fontFamily: 'Helvetica Neue',
     fontWeight: '800',
     color: '#ffffff',
-    paddingVertical: 50,
+    paddingVertical: 0,
+    marginTop: -100
   },
   qLineOne: {
     fontSize: 14,
+    fontFamily: 'Helvetica Neue',
     color: '#ffffff',
   },
   qLineTwo: {
     fontSize: 26,
+    fontFamily: 'Helvetica Neue',
     fontWeight: 'bold',
     color: '#4ab153',
   },
   qLineThree: {
     fontSize: 30,
+    fontFamily: 'Helvetica Neue',
     fontWeight: '300',
     color: '#ffffff',
   },
   qLineFour: {
     fontSize: 14,
+    fontFamily: 'Helvetica Neue',
     color: '#ffffff',
     fontWeight: '400',
   },
@@ -230,14 +234,14 @@ const styles = StyleSheet.create({
   itemSelected: {
     flex: 1,
     flexDirection: 'column',
-    backgroundColor: '#a5d9a9',
+    backgroundColor: '#f6f8f9',
     minHeight: 99,
     padding: 10,
     marginVertical: 8,
     marginHorizontal: 16,
     borderStyle: 'solid',
-    borderColor: '#E4EEF3',
-    borderWidth: 1,
+    borderColor: '#ef6192',
+    borderWidth: 3,
     borderRadius: 4,
     shadowColor: 'rgba(0,0,0,0.25)',
     shadowOffset: {width: 0, height: 5},
@@ -268,25 +272,30 @@ const styles = StyleSheet.create({
   },
   itemName: {
     fontSize: 20,
+    fontFamily: 'Helvetica Neue',
     fontWeight: '500',
     color: '#3F1D75',
   },
   totalSelections: {
     fontSize: 12,
+    fontFamily: 'Helvetica Neue',
     color: '#3F1D75',
     paddingRight: 5
   },
   username: {
     fontSize: 10,
+    fontFamily: 'Helvetica Neue',
     color: '#3F1D75',
   },
   upvotes: {
     fontSize: 12,
+    fontFamily: 'Helvetica Neue',
     marginRight: 5,
     color: '#3F1D75',
   },
   downvotes: {
     fontSize: 12,
+    fontFamily: 'Helvetica Neue',
     marginLeft: 15,
     marginRight: 5,
     color: '#3F1D75',
@@ -294,6 +303,13 @@ const styles = StyleSheet.create({
   imagestyle: {
     width: 10,
     height: 10,
+    
+  },
+  logoStyle: {
+    width: 200,
+    height: 200,
+    resizeMode: 'contain',
+    marginTop: -25
   }
 });
 

@@ -7,3 +7,6 @@ if (Platform.OS === 'web') {
   const rootTag = document.getElementById('root') || document.getElementById('main');
   AppRegistry.runApplication('FanChat', { rootTag });
 }
+
+console.disableYellowBox = true;
+console.ignoredYellowBox = ['Warning: Each', 'Warning: Failed'];

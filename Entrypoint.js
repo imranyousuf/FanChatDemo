@@ -18,6 +18,8 @@ const theme = {
     }
 };
 
+console.disableYellowBox = true;
+
 export default class Entrypoint extends Component {
     render() {
         return (

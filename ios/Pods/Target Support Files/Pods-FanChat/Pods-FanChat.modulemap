@@ -1,0 +1,6 @@
+module Pods_FanChat {
+  umbrella header "Pods-FanChat-umbrella.h"
+
+  export *
+  module * { export * }
+}

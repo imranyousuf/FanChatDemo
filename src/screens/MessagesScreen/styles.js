@@ -7,7 +7,14 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         backgroundColor: AppStyles.colors.lightWhite,
         color: '#4AB153'
-    }
+    },
+    backgroundImage: {
+        flex: 1,
+        width: null,
+        height: null,
+        resizeMode: 'contain'
+      }
+
 
 
 });

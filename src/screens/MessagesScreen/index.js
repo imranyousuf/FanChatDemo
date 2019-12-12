@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View } from 'react-native';
+import { View, Image } from 'react-native';
 import { Button } from 'react-native-paper';
 import PropTypes from 'prop-types';
 import { FlatList } from 'react-native';
@@ -23,10 +23,6 @@ export default class MessagesScreen extends Component {
         navigation.navigate('CameraScreen');
     };
 
-    renderItem = ({ item }) => {
-        return <GroupsItem item={item} />;
-    };
-
     
 
     render() {
@@ -34,13 +30,15 @@ export default class MessagesScreen extends Component {
             <View style={styles.container}>
                 <StatusList />
                 <Button
-                    icon="add-a-photo"
+                    icon="chat"
                     mode="contained"
                     color="#3F1D75"
                     onPress={() => this.props.navigation.navigate('ChatScreen')}
                 >
-                    Add Experience!
+                    JOIN THE LIVE CHAT!
                 </Button>
+
+                <Image source={require('../../assets/images/feed.png')} style={styles.backgroundImage} /> 
 
                 <FlatList
                 data={data}
@@ -49,6 +47,8 @@ export default class MessagesScreen extends Component {
                 showsVerticalScrollIndicator={false}
                 
             />
+
+            
 
             </View>
         );

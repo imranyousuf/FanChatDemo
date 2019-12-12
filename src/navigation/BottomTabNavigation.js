@@ -72,8 +72,8 @@ export const BottomTabNavigation = createBottomTabNavigator(
         tabBarOptions: {
             showLabel: false,
             activeTintColor: '#EF1D75',
-            inactiveTintColor: AppStyles.colors.inactiveGreyColor,
-            pressColor: '#7f8c8d'
+            inactiveTintColor: AppStyles.colors.accentColor,
+            pressColor: AppStyles.colors.accentColor
         }
     }
 );

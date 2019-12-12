@@ -29,17 +29,24 @@ export default class TabIcon extends Component {
                     color={tintColor}
                 />
             );
+            case 'roud':
+                return (
+                    <EntypoIcon
+                        style={style ? style : {}}
+                        name={name}
+                        size={40}
+                        color={tintColor}
+                    />
+                );
         case 'rounded':
             return (
                 <View style={styles.rounded}>
                     <Icon
                         style={style ? style : {}}
                         name={name}
-                        size={24}
+                        size={40}
                         color={
-                            tintColor === AppStyles.colors.inactiveGreyColor
-                                ? AppStyles.colors.white
-                                : tintColor
+                            tintColor
                         }
                     />
                 </View>

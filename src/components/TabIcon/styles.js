@@ -3,10 +3,10 @@ import AppStyles from 'src/config/styles';
 
 const styles = StyleSheet.create({
     rounded: {
-        width: 40,
-        height: 40,
+        width: 80,
+        height: 80,
         borderRadius: 20,
-        backgroundColor: AppStyles.colors.inactiveGreyColor,
+        backgroundColor: '#EF1D75',
         justifyContent: 'center',
         alignItems: 'center'
     }

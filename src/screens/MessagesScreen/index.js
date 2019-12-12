@@ -38,15 +38,10 @@ export default class MessagesScreen extends Component {
                     JOIN THE LIVE CHAT!
                 </Button>
 
-                <Image source={require('../../assets/images/feed.png')} style={styles.backgroundImage} /> 
+                <Image source={require('../../assets/images/feed1.jpg')} style={styles.backgroundImage} /> 
+                 <Image source={require('../../assets/images/feed2.jpg')} style={styles.backgroundImage} /> 
 
-                <FlatList
-                data={data}
-                contentContainerStyle={styles.list}
-                renderItem={this.renderItem}
-                showsVerticalScrollIndicator={false}
-                
-            />
+
 
             
 

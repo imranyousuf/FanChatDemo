@@ -11,10 +11,20 @@ const styles = StyleSheet.create({
     backgroundImage: {
         flex: 1,
         width: null,
+        height: 150,
+        resizeMode: 'cover',
+        
+        
+      },
+      backgroundImage2: {
+        marginTop: 150,  
+        flex: 1,
+        width: null,
         height: null,
-        resizeMode: 'contain'
+        resizeMode: 'cover',
+        
+        
       }
-
 
 
 });

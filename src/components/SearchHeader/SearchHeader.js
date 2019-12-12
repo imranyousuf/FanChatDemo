@@ -3,6 +3,8 @@ import { View, Platform, TouchableOpacity } from 'react-native';
 import { Text } from 'react-native-paper';
 import FBStatusBar from 'src/components/FBStatusBar';
 import styles from './styles';
+import Avatar from '../Avatar';
+import Images from 'src/config/images';
 
 import { Appbar, Searchbar } from 'react-native-paper';
 
@@ -88,7 +90,7 @@ export default class SearchHeader extends Component {
                         >
                             <Text style={styles.btnText}>Search</Text>
                         </TouchableOpacity>
-                        <Appbar.Action icon="face" color="#3F1D75" onPress={this._onSearch} />
+                        <Avatar uri={"https://i.imgur.com/t9D3Pfn.png"} />
                     </Appbar.Header>
                 )}
             </View>

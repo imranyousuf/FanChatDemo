@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
         width: 48,
         height: 28,
         resizeMode: 'contain',
-        backgroundColor: '#3F1D75',
+        backgroundColor: '#4AB153',
         color: "white",
         paddingTop: 3,
         paddingBottom: 5

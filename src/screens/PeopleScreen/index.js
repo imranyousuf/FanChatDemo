@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { View, Image } from 'react-native';
-import ActiveList from 'src/components/PointsList';
+import PointsList from 'src/components/PointsList';
 import styles from './styles';
 
 

@@ -16,9 +16,19 @@ const styles = StyleSheet.create({
         fontSize: 15
     },
     wave: {
-        width: 28,
+        width: 48,
         height: 28,
         resizeMode: 'contain'
+    },
+    points: {
+        width: 48,
+        height: 28,
+        resizeMode: 'contain',
+        backgroundColor: '#3F1D75',
+        color: "white",
+        paddingTop: 3,
+        paddingBottom: 5
+        
     }
 });
 

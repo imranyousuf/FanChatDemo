@@ -27,7 +27,7 @@ export default class UserItem extends Component {
                 rippleColor="rgba(0, 0, 0, .20)"
             >
                 <View style={styles.item}>
-                    <Avatar uri={picture.thumbnail} enableDot />
+                    <Avatar uri={picture.thumbnail} />
                     <Text style={styles.userName}>
                         {name.first[0].toUpperCase() +
                             name.first.slice(1) +
@@ -35,7 +35,8 @@ export default class UserItem extends Component {
                             name.last[0].toUpperCase() +
                             name.last.slice(1)}
                     </Text>
-                    <Image style={styles.wave} source={Images.profile.wave} />
+                    <Image style={styles.wave} source={Images.profile.coins} />
+                    <Text style={styles.points} > {Math.floor(Math.random()*90000) + 100} </Text>
                 </View>
             </TouchableRipple>
         );

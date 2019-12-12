@@ -10,11 +10,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<data>
-		og3wMzSjQCC/s6EmXKJEFz5XZ2Q=
+		SG/q7zum1OGrtHyRD49aHJFeQNI=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<data>
-		FpPyGkFTsyGc9FqmuEq7P2FCEEQ=
+		2vqNkgJsHPSqdz1EoDwAFoxYOmQ=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Bjc+xB5P0NUtmNVhqiZwWDZl7U0=
+		Wy1ZRDFDNpqQ4cjpT3y/cyaocMw=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -75,6 +75,22 @@
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Roboto-Light.ttf</key>
+		<data>
+		4yHBg+K3XuGYE4kre6yNfEEcuIo=
+		</data>
+		<key>Roboto-Medium.ttf</key>
+		<data>
+		YGDKcmuXYLdvfDR9zp0vof5C7JI=
+		</data>
+		<key>Roboto-Regular.ttf</key>
+		<data>
+		gktUgMl3qBZuF35TV9ExZMzEX0c=
+		</data>
+		<key>Roboto-Thin.ttf</key>
+		<data>
+		Fz7WRSi00BCnbY043rHX5+7Vjto=
 		</data>
 		<key>SimpleLineIcons.ttf</key>
 		<data>
@@ -102,22 +118,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			og3wMzSjQCC/s6EmXKJEFz5XZ2Q=
+			SG/q7zum1OGrtHyRD49aHJFeQNI=
 			</data>
 			<key>hash2</key>
 			<data>
-			qs1b424m/chCzX1Bf0McfevpouU4CvjqmEZzFWjwDOk=
+			hPMc1MZzNn7ViRDjP1DbmwlwGUrUz/4JkZWqawyW+rg=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FpPyGkFTsyGc9FqmuEq7P2FCEEQ=
+			2vqNkgJsHPSqdz1EoDwAFoxYOmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			d4ctVpMIVbZsfoSqWKJAo6qRzbDYawz/j7T6jmOh0BM=
+			smh/IslvN6lqEH3ZV700ZLkqgRoGu2CANqNUiu5zhbI=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -261,6 +277,50 @@
 			<key>hash2</key>
 			<data>
 			ua3cE7d8ZyDNSM0Y8PSoyuWJsbkQNjDCSd5gq3Lf1r4=
+			</data>
+		</dict>
+		<key>Roboto-Light.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4yHBg+K3XuGYE4kre6yNfEEcuIo=
+			</data>
+			<key>hash2</key>
+			<data>
+			7kNSBJYD5ZYFUPVURK1yDY1M4yLA3Loa/HfeeMQw0NU=
+			</data>
+		</dict>
+		<key>Roboto-Medium.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YGDKcmuXYLdvfDR9zp0vof5C7JI=
+			</data>
+			<key>hash2</key>
+			<data>
+			bi7FxfieTOMCu5O0bLfMM2I2UB3hc0jihIeJFMXg5yM=
+			</data>
+		</dict>
+		<key>Roboto-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gktUgMl3qBZuF35TV9ExZMzEX0c=
+			</data>
+			<key>hash2</key>
+			<data>
+			veihiON6qTaxZ67MXlo9pAJi9uUf1UxYTyzytrmdlso=
+			</data>
+		</dict>
+		<key>Roboto-Thin.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Fz7WRSi00BCnbY043rHX5+7Vjto=
+			</data>
+			<key>hash2</key>
+			<data>
+			2x1GQ0O/eVMHvJDag9Zbk8hB+yDzhmL5Lx5eLFodLsU=
 			</data>
 		</dict>
 		<key>SimpleLineIcons.ttf</key>

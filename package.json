@@ -40,7 +40,7 @@
   },
   "rnpm": {
     "assets": [
-      "./app/assets/fonts"
+      "./assets/fonts"
     ]
   },
   "private": true

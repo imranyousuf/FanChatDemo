@@ -23,7 +23,7 @@ const GamesTabIcon = ({ tintColor }) => (
     <TabIcon name="game-controller" tintColor={tintColor} type="entypo" />
 );
 const PopularTabIcon = ({ tintColor }) => (
-    <TabIcon name="line-chart" tintColor={tintColor} />
+    <TabIcon name="star" tintColor={tintColor} />
 );
 
 export const BottomTabNavigation = createBottomTabNavigator(
